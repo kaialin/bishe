@@ -24,3 +24,6 @@ page, teaching institution display, teaching institution details, teaching lectu
 time and place, students learn English online can save some unnecessary spending, also can need according to their own learning to study 
 the corresponding contents, using online education institutions teaching methods, compared with the traditional teaching way, Save the 
 selection of offline teaching location and other problems.
+
+
+该项目是基于Django框架，利用Python语言编写，后台管理系统采用Xadmin实现前后端不分离技术，前端的页面内容需要后台控制，主要有两大模块，学生模块和后台管理模块，分别完成对应的功能点，利用Django框架特有的创建app自动生成model数据表。
